@@ -55,7 +55,7 @@ public class Address {
   {
       if(state != null && !state.isEmpty())
       {
-        this.state = state.trim().toUpperCase();
+        this.state = state.trim();
       }
       else
       {
@@ -63,7 +63,7 @@ public class Address {
       }
   }
 
-  // do we need any validation for Zip ?
+  // do we need any validation for Zip ? 
   public void setZip(String zip)
   {
       if(zip != null && !zip.isEmpty())

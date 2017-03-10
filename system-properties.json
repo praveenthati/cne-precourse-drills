@@ -23,15 +23,7 @@
   "user.variant": "",
   "os.name": "Windows 7",
   "sun.jnu.encoding": "Cp1252",
-  "java.library.path": "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\windows\\Sun
-\\Java\\bin;C:\\windows\\system32;C:\\windows;C:\\ProgramData\\Oracle\\Java\\jav
-apath;C:\\Program Files\\Common Files\\Microsoft Shared\\Windows Live;C:\\Progra
-m Files (x86)\\Common Files\\Microsoft Shared\\Windows Live;C:\\windows\\system3
-2;C:\\windows;C:\\windows\\System32\\Wbem;C:\\windows\\System32\\WindowsPowerShe
-ll\\v1.0\\;C:\\Program Files\\Lenovo\\Bluetooth Software\\;C:\\Program Files\\Le
-novo\\Bluetooth Software\\syswow64;C:\\Program Files (x86)\\Windows Live\\Shared
-;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk1.8.0_121\\bin;C:\\grad
-le-3.4.1\\bin;;C:\\Program Files (x86)\\Microsoft VS Code\\bin;.",
+  "java.library.path": "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\windows\\Sun\\Java\\bin;C:\\windows\\system32;C:\\windows;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files\\Common Files\\Microsoft Shared\\Windows Live;C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\Windows Live;C:\\windows\\system32;C:\\windows;C:\\windows\\System32\\Wbem;C:\\windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Lenovo\\Bluetooth Software\\;C:\\Program Files\\Lenovo\\Bluetooth Software\\syswow64;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk1.8.0_121\\bin;C:\\gradle-3.4.1\\bin;;C:\\Program Files (x86)\\Microsoft VS Code\\bin;.",
   "java.specification.name": "Java Platform API Specification",
   "java.class.version": "52.0",
   "sun.management.compiler": "HotSpot 64-Bit Tiered Compilers",
@@ -52,14 +44,8 @@ le-3.4.1\\bin;;C:\\Program Files (x86)\\Microsoft VS Code\\bin;.",
   "awt.toolkit": "sun.awt.windows.WToolkit",
   "java.vm.info": "mixed mode",
   "java.version": "1.8.0_121",
-  "java.ext.dirs": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\ext;C:\\windows\
-\Sun\\Java\\lib\\ext",
-  "sun.boot.class.path": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\resources.
-jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\rt.jar;C:\\Program Files\\Java\\
-jre1.8.0_121\\lib\\sunrsasign.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\js
-se.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\jce.jar;C:\\Program Files\\Ja
-va\\jre1.8.0_121\\lib\\charsets.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\
-jfr.jar;C:\\Program Files\\Java\\jre1.8.0_121\\classes",
+  "java.ext.dirs": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\ext;C:\\windows\\Sun\\Java\\lib\\ext",
+  "sun.boot.class.path": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\resources.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\rt.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\sunrsasign.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\jsse.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\jce.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\charsets.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\jfr.jar;C:\\Program Files\\Java\\jre1.8.0_121\\classes",
   "sun.stderr.encoding": "cp437",
   "java.vendor": "Oracle Corporation",
   "file.separator": "\\",
